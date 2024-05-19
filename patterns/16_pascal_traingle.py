@@ -1,4 +1,4 @@
-rows = 6
+rows = 7
   
 # // outer loop for rows 
 for i in range(rows+1):
